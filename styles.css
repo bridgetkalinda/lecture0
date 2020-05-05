@@ -1,0 +1,48 @@
+p {
+  color: #A1167F;
+  text-align: center;
+}
+
+div {
+  background-color: teal;
+  font-family: arial, sans-serif;
+  font-size: 15px;
+  font-weight: bold;
+  border: 1px solid black;
+  width: 400px;
+  height: 65px;
+  margin: 30px;
+  padding: 20px;
+}
+
+table {
+  border: 3px solid black;
+  border-collapse: collapse;
+  width: 50%;
+}
+
+th, td {
+  border: 1px solid black;
+  padding: 5px;
+  text-align: center;
+}
+
+th {
+  background-color: lightgray;
+}
+
+#top {
+  font-size: 36px;
+}
+
+#middle {
+  font-size: 15px;
+}
+
+#bottom {
+  font-size: 12px;
+}
+
+.name {
+  font-style: bold;
+}
